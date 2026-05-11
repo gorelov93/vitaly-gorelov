@@ -52,15 +52,15 @@ permalink: /
   </li>
   <li>
     <span class="when">2025</span>
-    <span class="what">Invited talk at the HANAMI workshop on materials science from first principles, Paris.</span>
+    <span class="what">Invited talk at the <a href="https://hanami-project.com/2025/06/26/materials-scientist-toolbox/">HANAMI workshop on materials science from first principles</a>, Paris.</span>
   </li>
   <li>
     <span class="when">2024</span>
-    <span class="what">Started the <a href="https://www.pepr-tase.fr/projet/minotaure/">MINOTAURE</a> project under the PEPR TASE programme, and welcomed <a href="https://gorelov93.github.io/vitaly-gorelov/students/"><em>three new PhD students</em></a>  to the <a href="https://etsf.polytechnique.fr/"><em>Theoretical Spectroscopy group</em></a>.</span>
+    <span class="what">Started the <a href="https://www.pepr-tase.fr/projet/minotaure/">MINOTAURE</a> project under the PEPR TASE programme, and welcomed <a href="https://gorelov93.github.io/vitaly-gorelov/students/">three new PhD students</a>  to the <a href="https://etsf.polytechnique.fr/">Theoretical Spectroscopy group</a>.</span>
   </li>
   <li>
     <span class="when">2024</span>
-    <span class="what"> <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L241111"><em>Phys. Rev. B</em> Letter</a> on the electronic excitation spectra of molecular hydrogen in Phase I from QMC and MBPT (selected as Editor Suggestion).</span>
+    <span class="what"> <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L241111"><em>Phys. Rev. B Letter</em></a> on the electronic excitation spectra of molecular hydrogen in Phase I from QMC and MBPT (selected as Editor Suggestion).</span>
   </li>
   <li>
     <span class="when">2023</span>
