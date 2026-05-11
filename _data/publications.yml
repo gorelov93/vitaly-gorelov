@@ -11,12 +11,13 @@
   authors: "L. Lacombe, L. Reining, **V. Gorelov**"
   venue: "SciPost Phys. 20, 035 (2026)"
   year: 2026
-  link: "https://scipost.org/SciPostPhys.20.035"
+  link: "https://doi.org/10.21468/SciPostPhys.20.2.035"
 
 - title: "About Carrier's Self-Trapping and Dynamical Rashba Splitting in the 2D Hybrid Perovskite (BA)₂(MA)₂Pb₃I₁₀"
   authors: "W. Qi, S. Ponzoni, G. Huitric, **V. Gorelov**, et al."
   venue: "Small (2026): e11410"
   year: 2026
+  link: "https://doi.org/10.1002/smll.202511410"
 
 - title: "Electronic excitation spectra of molecular hydrogen in Phase I from Quantum Monte Carlo and Many-Body perturbation methods"
   authors: "**V. Gorelov**, D. M. Ceperley, M. Holzmann, C. Pierleoni"
@@ -28,6 +29,7 @@
   authors: "**V. Gorelov**, Y. Yang, M. Ruggeri, D. M. Ceperley, C. Pierleoni, M. Holzmann"
   venue: "Condens. Matter Phys. 26, 3 (2023)"
   year: 2023
+  link: "https://doi.org/10.5488/CMP.26.33701"
 
 - title: "Robustness of electronic screening effects in electron spectroscopies: example of V₂O₅"
   authors: "**V. Gorelov**, L. Reining, W. Lambrecht, M. Gatti"

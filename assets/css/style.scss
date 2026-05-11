@@ -357,7 +357,7 @@ hr {
   padding: 1.1rem 0;
   border-top: 1px dashed var(--border);
 }
-.entry:first-of-type { border-top: 0; padding-top: 0.5rem; }
+.entry.first { border-top: 0; padding-top: 0.5rem; }
 
 .entry .pub-title {
   font-family: var(--font-sans);

@@ -12,6 +12,26 @@ permalink: /research/
 </p>
 
 <div class="topic">
+  <h2>Time-dependent many-body effects in materials for photovoltaics</h2>
+  <p>
+    With Lucia Reining and Lionel Lacombe we develop a
+    response-theory framework for electron charge dynamics and charge
+    separation that can be evaluated efficiently on realistic materials.
+  </p>
+  <p>
+    Designing better photovoltaic absorbers requires accurate, predictive
+    descriptions of dielectric properties, exciton binding energies, and band
+    offsets at interfaces — quantities where mean-field approaches routinely
+    fail. Through the PEPR TASE project MINOTAURE and the Energy4Climate center,
+    my group studies hybrid perovskites and other emerging absorbers from first
+    principles.
+  </p>
+  <p class="small muted">
+    Key papers: <a href="https://scipost.org/10.21468/SciPostPhys.20.2.035"><em>SciPost Phys.</em> 20, 035 (2026)</a>; <a href="https://doi.org/10.1002/smll.202511410"><em>Small</em> (2026): e11410</a>.
+  </p>
+</div>
+
+<div class="topic">
   <h2>Excitons, screening, and the optical properties of complex oxides</h2>
   <p>
     Optical absorption and electron energy loss spectra are governed by the
@@ -31,7 +51,7 @@ permalink: /research/
     complex oxides.
   </p>
   <p class="small muted">
-    Key papers: <em>npj Comput. Mater.</em> 8, 94 (2022); <em>Phys. Rev. B</em> 107, 075101 (2023).
+    Key papers: <a href="https://www.nature.com/articles/s41524-022-00754-2"><em>npj Comput. Mater.</em> 8, 94 (2022)</a>; <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.075101"><em>Phys. Rev. B</em> 107, 075101 (2023)</a>.
   </p>
 </div>
 
@@ -52,28 +72,7 @@ permalink: /research/
     diamond, where QMC provides a benchmark for approximate functionals.
   </p>
   <p class="small muted">
-    Key papers: <em>Phys. Rev. B</em> 109, L241111 (2024); <em>Condens. Matter Phys.</em> 26, 3 (2023).
-  </p>
-</div>
-
-<div class="topic">
-  <h2>Many-body effects in materials for photovoltaics</h2>
-  <p>
-    Designing better photovoltaic absorbers requires accurate, predictive
-    descriptions of dielectric properties, exciton binding energies, and band
-    offsets at interfaces — quantities where mean-field approaches routinely
-    fail. Through the PEPR TASE project MINOTAURE and the Energy4Climate center,
-    my group studies hybrid perovskites and other emerging absorbers from first
-    principles, with a particular interest in carrier self-trapping, Rashba
-    splitting, and charge separation at heterojunctions.
-  </p>
-  <p>
-    A complementary effort, with Lucia Reining and collaborators, develops a
-    response-theory framework for electron charge dynamics and charge
-    separation that can be evaluated efficiently on realistic materials.
-  </p>
-  <p class="small muted">
-    Key papers: <em>SciPost Phys.</em> 20, 035 (2026); <em>Small</em> (2026): e11410.
+    Key papers: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L241111"><em>Phys. Rev. B</em> 109, L241111 (2024)</a>; <a href="https://doi.org/10.5488/CMP.26.33701"><em>Condens. Matter Phys.</em> 26, 3 (2023)</a>.
   </p>
 </div>
 
