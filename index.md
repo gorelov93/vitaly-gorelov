@@ -43,11 +43,11 @@ permalink: /
 <ul class="tlist">
   <li>
     <span class="when">2026</span>
-    <span class="what">New paper from Muhammed Güneş, Ayoub Aouina, myself, Matteo Gatti and Lucia Reining on the use of Connector Theory to design explicit functionals is on <a href="https://arxiv.org/abs/2605.02492"><em>arXiv:2605.02492</em> </span>
+    <span class="what">New paper from Muhammed Güneş, Ayoub Aouina, myself, Matteo Gatti and Lucia Reining on the use of Connector Theory to design explicit functionals is on <a href="https://arxiv.org/abs/2605.02492"><em>arXiv:2605.02492</em></a> </span>
   </li>
   <li>
     <span class="when">2026</span>
-    <span class="what">New paper with L. Lacombe and L. Reining on charge dynamics and charge separation, out in <a href="https://scipost.org/10.21468/SciPostPhys.20.2.035"><em>SciPost Phys.</em></span>
+    <span class="what">New paper with L. Lacombe and L. Reining on charge dynamics and charge separation, out in <a href="https://scipost.org/10.21468/SciPostPhys.20.2.035"><em>SciPost Phys.</em></a> </span>
   </li>
   <li>
     <span class="when">2025</span>
