@@ -48,7 +48,7 @@ permalink: /
   </li>
   <li>
     <span class="when">2026</span>
-    <span class="what">New paper with L. Lacombe and L. Reining on charge dynamics and charge separation, out in <a href="https://scipost.org/10.21468/SciPostPhys.20.2.035"><em>SciPost Phys.</em> 20, 035 (2026)</a></span>
+    <span class="what">New paper with L. Lacombe and L. Reining on charge dynamics and charge separation, out in <a href="https://scipost.org/10.21468/SciPostPhys.20.2.035"><em>SciPost Phys.</em></span>
   </li>
   <li>
     <span class="when">2025</span>
