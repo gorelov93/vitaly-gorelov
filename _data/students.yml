@@ -1,0 +1,31 @@
+# Students supervised.
+
+- name: Ilayda Ashgar
+  role: PhD student
+  period: "October 2024 – present"
+  project: >-
+    Efficient ab initio calculations of dielectric properties in materials
+    relevant to photovoltaics.
+  funding: PEPR TASE
+
+- name: Carlos Rodriguez Perez
+  role: PhD student (after M2 internship)
+  period: "April 2024 – present"
+  project: >-
+    Quantum many-body effects in the design of materials for photovoltaics.
+  funding: Energy4Climate center grant
+
+- name: Jean Goossaert
+  role: PhD student (after M2 internship)
+  period: "April 2024 – present"
+  project: >-
+    Energy levels and band offsets at interfaces from first principles.
+  funding: "PEPR TASE — co-direction LSI / Institut de Chimie de Rennes"
+
+- name: Muhammed Güneş
+  role: PhD-track (M1 and M2 phases)
+  period: "2022 – 2024"
+  project: >-
+    Re-using model results to determine materials properties: connector theory approach.
+  funding: "Co-direction with Matteo Gatti and Lucia Reining"
+  institution: École Polytechnique

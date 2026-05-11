@@ -1,0 +1,15 @@
+<div class="topbar">
+  <a href="{{ '/' | relative_url }}" class="brand"><span class="prompt">~/</span>vitaly.gorelov</a>
+  <nav>
+    {% for item in site.data.navigation %}
+      {% assign cur = page.url | default: '/' %}
+      {% assign active = false %}
+      {% if item.url == '/' and cur == '/' %}{% assign active = true %}{% endif %}
+      {% if item.url != '/' and cur contains item.url %}{% assign active = true %}{% endif %}
+      <a href="{{ item.url | relative_url }}"{% if active %} class="active"{% endif %}>{{ item.name | downcase }}</a>
+    {% endfor %}
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme" title="Toggle theme">
+      <span id="theme-icon">☀</span>
+    </button>
+  </nav>
+</div>

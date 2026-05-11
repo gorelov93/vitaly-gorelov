@@ -1,0 +1,25 @@
+<aside class="sidebar">
+  <div class="avatar">
+    {% assign photo = '/assets/img/photo.jpg' | relative_url %}
+    <img src="{{ photo }}" alt="Vitaly Gorelov" onerror="this.style.display='none'; this.parentNode.innerHTML='VG';">
+  </div>
+
+  <h2>{{ site.author }}</h2>
+  <p class="role">{{ site.affiliation.role }}</p>
+
+  <div class="id-block">
+    <span class="id-line"><span class="id-key">lab:</span> {{ site.affiliation.lab }}</span>
+    <span class="id-line"><span class="id-key">org:</span> {{ site.affiliation.institution }}</span>
+    <span class="id-line"><span class="id-key">loc:</span> Palaiseau, FR</span>
+    <span class="id-line" style="margin-top:0.4rem; display:block;"><span class="id-key">email:</span> <a href="mailto:{{ site.social.email }}">{{ site.social.email }}</a></span>
+    <span class="id-line"><span class="id-key">tel:</span> {{ site.social.phone }}</span>
+  </div>
+
+  <div class="links">
+    <a href="https://scholar.google.com/citations?user={{ site.social.scholar }}" target="_blank" rel="noopener">scholar</a>
+    <a href="https://orcid.org/{{ site.social.orcid }}" target="_blank" rel="noopener">orcid</a>
+    <a href="https://github.com/{{ site.social.github }}" target="_blank" rel="noopener">github</a>
+    <a href="https://www.researchgate.net/profile/{{ site.social.researchgate }}" target="_blank" rel="noopener">researchgate</a>
+    <a href="{{ site.social.lab }}" target="_blank" rel="noopener">group page</a>
+  </div>
+</aside>

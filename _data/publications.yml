@@ -1,0 +1,54 @@
+# Publications. Edit/add entries here — the publications page renders from this file.
+# Most recent first. Use **bold** around your own name in `authors`.
+
+- title: "Designing explicit functionals for the charge density in terms of a potential"
+  authors: "M. H. Güneş, A. Aouina, **V. Gorelov**, M. Gatti, L. Reining"
+  venue: "arXiv:2605.02492"
+  year: 2026
+  arxiv: "https://arxiv.org/abs/2605.02492"
+
+- title: "Electron charge dynamics and charge separation: A response theory approach"
+  authors: "L. Lacombe, L. Reining, **V. Gorelov**"
+  venue: "SciPost Phys. 20, 035 (2026)"
+  year: 2026
+  link: "https://scipost.org/SciPostPhys.20.035"
+
+- title: "About Carrier's Self-Trapping and Dynamical Rashba Splitting in the 2D Hybrid Perovskite (BA)₂(MA)₂Pb₃I₁₀"
+  authors: "W. Qi, S. Ponzoni, G. Huitric, **V. Gorelov**, et al."
+  venue: "Small (2026): e11410"
+  year: 2026
+
+- title: "Electronic excitation spectra of molecular hydrogen in Phase I from Quantum Monte Carlo and Many-Body perturbation methods"
+  authors: "**V. Gorelov**, D. M. Ceperley, M. Holzmann, C. Pierleoni"
+  venue: "Phys. Rev. B 109, L241111 (2024)"
+  year: 2024
+  link: "https://doi.org/10.1103/PhysRevB.109.L241111"
+
+- title: "Neutral band gap of carbon by quantum Monte Carlo methods"
+  authors: "**V. Gorelov**, Y. Yang, M. Ruggeri, D. M. Ceperley, C. Pierleoni, M. Holzmann"
+  venue: "Condens. Matter Phys. 26, 3 (2023)"
+  year: 2023
+
+- title: "Robustness of electronic screening effects in electron spectroscopies: example of V₂O₅"
+  authors: "**V. Gorelov**, L. Reining, W. Lambrecht, M. Gatti"
+  venue: "Phys. Rev. B 107, 075101 (2023)"
+  year: 2023
+  link: "https://doi.org/10.1103/PhysRevB.107.075101"
+  image: "eps_G0Gp0.jpg"
+  summary: >-
+    Screening of excitations by the electron cloud is central to spectroscopic
+    properties. We use V₂O₅ as a prototype to show how local distortions affect
+    the screening, and how those changes propagate to EELS and absorption spectra,
+    including excitons.
+
+- title: "Delocalization of dark and bright strongly bound excitons in flat-band materials and the optical properties of V₂O₅"
+  authors: "**V. Gorelov**, L. Reining, M. Feneberg, R. Goldhahn, A. Schleife, W. Lambrecht, M. Gatti"
+  venue: "npj Comput. Mater. 8, 94 (2022)"
+  year: 2022
+  link: "https://doi.org/10.1038/s41524-022-00754-2"
+  image: "exc_xy_7_ellipce.jpg"
+  summary: >-
+    Localized charge-transfer excitations can combine to form excitons with very
+    large binding energy *and* large electron-hole distance — a seemingly contradictory
+    finding we resolve in V₂O₅ by combining MBPT, ellipsometry, and tight-binding
+    modelling. The mechanism is general.

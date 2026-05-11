@@ -1,0 +1,12 @@
+- name: Home
+  url: /
+- name: Research
+  url: /research/
+- name: Publications
+  url: /publications/
+- name: Talks
+  url: /talks/
+- name: Students
+  url: /students/
+- name: CV
+  url: /cv/

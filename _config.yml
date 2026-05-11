@@ -1,0 +1,62 @@
+# Site
+title: Vitaly Gorelov
+description: >-
+  CNRS researcher in condensed matter physics at Laboratoire des Solides Irradiés,
+  École Polytechnique. Quantum Monte Carlo, many-body perturbation theory,
+  and ab initio methods for materials.
+author: Vitaly Gorelov
+email: vitaly.gorelov@polytechnique.edu
+# Update this once you know your GitHub Pages URL.
+# If repo is at github.com/USERNAME/USERNAME.github.io, leave baseurl empty and set url accordingly.
+# If repo is github.com/USERNAME/some-repo, set baseurl: "/some-repo"
+url: "https://gorelov93.github.io"
+baseurl: ""
+
+# Build
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+timezone: Europe/Paris
+
+# Plugins (allowed on GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections / page handling
+include:
+  - _pages
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .github
+
+# Social / profile links — used by the sidebar
+social:
+  email: vitaly.gorelov@polytechnique.edu
+  phone: "+33 7 69 43 77 63"
+  github: gorelov93
+  scholar: stJ25UkAAAAJ
+  orcid: 0000-0003-4324-506X
+  researchgate: Vitaly-Gorelov
+  lab: https://etsf.polytechnique.fr/people/vitaly
+
+# Affiliation
+affiliation:
+  role: CNRS Researcher (Chargé de Recherche, Section 9)
+  lab: Laboratoire des Solides Irradiés (LSI)
+  institution: École Polytechnique
+  address: Route de Saclay, 91128 Palaiseau, France
