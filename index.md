@@ -55,7 +55,7 @@ permalink: /
   </li>
   <li>
     <span class="when">2024</span>
-    <span class="what">Started the <a href="https://www.pepr-tase.fr/projet/minotaure/"><em>MINOTAURE</em></a> project under the PEPR TASE programme, and welcomed <a href="https://gorelov93.github.io/vitaly-gorelov/students/"><em>three new PhD students</em></a>  to the <a href="https://etsf.polytechnique.fr/"><em>Theoretical Spectroscopy group</em>.</span>
+    <span class="what">Started the <a href="https://www.pepr-tase.fr/projet/minotaure/"><em>MINOTAURE</em></a> project under the PEPR TASE programme, and welcomed <a href="https://gorelov93.github.io/vitaly-gorelov/students/"><em>three new PhD students</em></a>  to the <a href="https://etsf.polytechnique.fr/"><em>Theoretical Spectroscopy group</em></a>.</span>
   </li>
   <li>
     <span class="when">2024</span>
