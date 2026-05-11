@@ -55,11 +55,11 @@ permalink: /
   </li>
   <li>
     <span class="when">2024</span>
-    <span class="what">Started the MINOTAURE project under the PEPR TASE programme, and welcomed three new PhD students to the group.</span>
+    <span class="what">Started the <a href="https://www.pepr-tase.fr/projet/minotaure/"><em>MINOTAURE</em></a> project under the PEPR TASE programme, and welcomed <a href="https://gorelov93.github.io/vitaly-gorelov/students/"><em>three new PhD students</em></a>  to the <a href="https://etsf.polytechnique.fr/"><em>Theoretical Spectroscopy group</em>.</span>
   </li>
   <li>
     <span class="when">2024</span>
-    <span class="what"><em>Phys. Rev. B</em> Letter on the electronic excitation spectra of molecular hydrogen in Phase I from QMC and MBPT.</span>
+    <span class="what"> <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L241111"><em>Phys. Rev. B</em> Letter</a> on the electronic excitation spectra of molecular hydrogen in Phase I from QMC and MBPT (selected as Editor Suggestion).</span>
   </li>
   <li>
     <span class="when">2023</span>
