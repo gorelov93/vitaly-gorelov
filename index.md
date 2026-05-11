@@ -17,6 +17,7 @@ permalink: /
 <div class="tags">
   <span class="tag">qmc</span>
   <span class="tag">mbpt</span>
+  <span class="tag">charge dynamics</span>
   <span class="tag">photovoltaics</span>
   <span class="tag">dense-hydrogen</span>
   <span class="tag">excitons</span>
@@ -55,7 +56,7 @@ permalink: /
   </li>
   <li>
     <span class="when">2024</span>
-    <span class="what">Started the <a href="https://www.pepr-tase.fr/projet/minotaure/"><em>MINOTAURE</em></a> project under the PEPR TASE programme, and welcomed <a href="https://gorelov93.github.io/vitaly-gorelov/students/"><em>three new PhD students</em></a>  to the <a href="https://etsf.polytechnique.fr/"><em>Theoretical Spectroscopy group</em></a>.</span>
+    <span class="what">Started the <a href="https://www.pepr-tase.fr/projet/minotaure/">MINOTAURE</a> project under the PEPR TASE programme, and welcomed <a href="https://gorelov93.github.io/vitaly-gorelov/students/"><em>three new PhD students</em></a>  to the <a href="https://etsf.polytechnique.fr/"><em>Theoretical Spectroscopy group</em></a>.</span>
   </li>
   <li>
     <span class="when">2024</span>
