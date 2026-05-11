@@ -6,7 +6,6 @@ permalink: /
 
 <h1>Vitaly Gorelov</h1>
 <div class="home-intro">
-<img class="home-photo" src="{{ '/assets/img/photo.jpg' | relative_url }}" alt="Vitaly Gorelov">
 <p class="lede">
   I'm a CNRS researcher in condensed matter physics at the Laboratoire des Solides
   Irradiés, École Polytechnique. I develop and apply quantum many-body methods to
