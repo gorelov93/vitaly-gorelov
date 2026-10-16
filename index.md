@@ -48,6 +48,10 @@ permalink: /
   </li>
   <li>
     <span class="when">2026</span>
+    <span class="what">Invited talk at the Green's function methods workshop in Toulouse.</span>
+  </li>
+  <li>
+    <span class="when">2026</span>
     <span class="what">New paper with M. H. Güneş, Y. Yang, M. A. Morales, M. Gatti, L. Reining and S. Zhang on the signature of short-range order in the static response of the three-dimensional electron gas, on <a href="https://arxiv.org/abs/2609.10006"><em>arXiv:2609.10006</em></a></span>
   </li>
   <li>
