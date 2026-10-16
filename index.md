@@ -44,6 +44,22 @@ permalink: /
 <ul class="tlist">
   <li>
     <span class="when">2026</span>
+    <span class="what"><strong>We are hiring!</strong> Postdoc position (12 + 12 months) to accelerate Bethe–Salpeter equation (BSE) calculations and apply them to 2D halide perovskites, in collaboration with Rennes. Interested? <a href="mailto:vitaly.gorelov@polytechnique.edu">Get in touch</a>.</span>
+  </li>
+  <li>
+    <span class="when">2026</span>
+    <span class="what">Our ANR project <strong>TIDE</strong> (<em>Tomographie, Interactions et Dynamique des Excitons</em>), coordinated by Luca Perfetti, has been <a href="https://anr.fr/fileadmin/aap/2026/selection/aapg-2026-selection.pdf">selected for funding</a> in the ANR AAPG 2026 call.</span>
+  </li>
+  <li>
+    <span class="when">2026</span>
+    <span class="what">New paper with M. H. Güneş, Y. Yang, M. A. Morales, M. Gatti, L. Reining and S. Zhang on the signature of short-range order in the static response of the three-dimensional electron gas, on <a href="https://arxiv.org/abs/2609.10006"><em>arXiv:2609.10006</em></a></span>
+  </li>
+  <li>
+    <span class="when">2026</span>
+    <span class="what">New paper with C. Rodriguez Perez, V. Olevano and F. Sottile on unbiased diffusion Monte Carlo estimators for non-local operators, on <a href="https://arxiv.org/abs/2607.22273"><em>arXiv:2607.22273</em></a></span>
+  </li>
+  <li>
+    <span class="when">2026</span>
     <span class="what">New paper from Muhammed Güneş, Ayoub Aouina, myself, Matteo Gatti and Lucia Reining on the use of Connector Theory to design explicit functionals is on <a href="https://arxiv.org/abs/2605.02492"><em>arXiv:2605.02492</em></a> </span>
   </li>
   <li>

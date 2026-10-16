@@ -1,6 +1,18 @@
 # Publications. Edit/add entries here — the publications page renders from this file.
 # Most recent first. Use **bold** around your own name in `authors`.
 
+- title: "Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas"
+  authors: "M. H. Güneş, Y. Yang, **V. Gorelov**, M. A. Morales, M. Gatti, L. Reining, S. Zhang"
+  venue: "arXiv:2609.10006"
+  year: 2026
+  arxiv: "https://arxiv.org/abs/2609.10006"
+
+- title: "Unbiased Diffusion Monte Carlo for non local operators"
+  authors: "C. Rodriguez Perez, V. Olevano, F. Sottile, **V. Gorelov**"
+  venue: "arXiv:2607.22273"
+  year: 2026
+  arxiv: "https://arxiv.org/abs/2607.22273"
+
 - title: "Designing explicit functionals for the charge density in terms of a potential"
   authors: "M. H. Güneş, A. Aouina, **V. Gorelov**, M. Gatti, L. Reining"
   venue: "arXiv:2605.02492"
