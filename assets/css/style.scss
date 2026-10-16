@@ -529,28 +529,10 @@ hr {
   font-family: var(--font-sans);
 }
 
-/* Highlighted news item (e.g. open positions) */
-.tlist li.highlight {
-  border-left: 3px solid var(--accent-4);
-  background: color-mix(in srgb, var(--accent-4) 8%, transparent);
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
-  border-radius: var(--radius);
-}
-.tlist li.highlight + li { border-top: 0; }
+/* "We are hiring!" text in news */
 .badge-hiring {
-  display: inline-block;
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
+  color: var(--accent-4);
   font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--bg);
-  background: var(--accent-4);
-  padding: 0.1rem 0.5rem;
-  border-radius: var(--radius);
-  margin-right: 0.4rem;
-  vertical-align: middle;
 }
 
 @media (max-width: 520px) {
