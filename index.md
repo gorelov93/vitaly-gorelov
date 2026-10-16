@@ -60,7 +60,7 @@ permalink: /
   </li>
   <li>
     <span class="when">2026</span>
-    <span class="what">New paper from Muhammed Güneş, Ayoub Aouina, myself, Matteo Gatti and Lucia Reining on the use of Connector Theory to design explicit functionals is on <a href="https://arxiv.org/abs/2605.02492"><em>arXiv:2605.02492</em></a> </span>
+    <span class="what">New paper from Muhammed Güneş, Ayoub Aouina, myself, Matteo Gatti and Lucia Reining on the use of Connector Theory to design explicit functionals is out in <a href="https://doi.org/10.1103/zztt-z1wj"><em>Phys. Rev. B</em></a> </span>
   </li>
   <li>
     <span class="when">2026</span>
