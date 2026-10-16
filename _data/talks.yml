@@ -1,5 +1,10 @@
 # Talks and communications. Most recent first.
 
+- title: "Quantum Monte Carlo Beyond Total Energies: Density Matrices and Response Functions"
+  venue: "Green's function methods workshop, Toulouse"
+  year: 2026
+  kind: invited
+
 - title: "Computing Observables with Quantum Monte Carlo from Excitations to One-Body Reduced Density Matrices"
   venue: "HANAMI Materials Science from First Principles workshop, Paris"
   year: 2025

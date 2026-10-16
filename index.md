@@ -42,9 +42,9 @@ permalink: /
 <h2>News</h2>
 
 <ul class="tlist">
-  <li>
+  <li class="highlight">
     <span class="when">2026</span>
-    <span class="what">Our ANR project <strong>TIDE</strong> (<em>Tomographie, Interactions et Dynamique des Excitons</em>), coordinated by Luca Perfetti, has been <a href="https://anr.fr/fileadmin/aap/2026/selection/aapg-2026-selection.pdf">selected for funding</a> in the ANR AAPG 2026 call. <strong>We are hiring!</strong> Within TIDE we offer a postdoc position (12 + 12 months) to accelerate Bethe–Salpeter equation (BSE) calculations and apply them to 2D halide perovskites, in collaboration with Rennes. Interested? <a href="mailto:vitaly.gorelov@polytechnique.edu">Get in touch</a>.</span>
+    <span class="what"><span class="badge-hiring">We are hiring!</span> Our ANR project <strong>TIDE</strong> (<em>Tomographie, Interactions et Dynamique des Excitons</em>), coordinated by Luca Perfetti, has been <a href="https://anr.fr/fileadmin/aap/2026/selection/aapg-2026-selection.pdf">selected for funding</a> in the ANR AAPG 2026 call. Within TIDE we offer a postdoc position (12 + 12 months) to accelerate Bethe–Salpeter equation (BSE) calculations and apply them to 2D halide perovskites, in collaboration with Rennes. Interested? <a href="mailto:vitaly.gorelov@polytechnique.edu">Get in touch</a>.</span>
   </li>
   <li>
     <span class="when">2026</span>
